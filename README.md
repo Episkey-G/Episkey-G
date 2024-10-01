@@ -1,5 +1,3 @@
-<div id="title" align=center>
-
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4BE5F7&width=435&lines=Endless+improvement" alt="Typing SVG" />
 </div>
@@ -14,6 +12,8 @@ Hi Guys, my name is Run Gu(顾润), BackEnd developer.
     <li>🏫 Study at NUIST (Computer Science and Technology).</li>
     <li>🐈️ Love some cute animal.</li>
 </ul>
+
+<div id="title" align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Episkey-G&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
