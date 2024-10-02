@@ -19,7 +19,7 @@ Hi Guys, my name is Run Gu(顾润), BackEnd developer.
 
 
 [![modern Java](https://img.shields.io/badge/code-Modern%20Java-blue)](https://www.oracle.com/cn/java/technologies/)
-![](https://img.shields.io/badge/讨厌-学习-yellow)
+[![modern Java](https://img.shields.io/badge/code-Modern%20Go-blue)]([https://www.oracle.com/cn/java/technologies/](https://go.dev/))
 ![](https://img.shields.io/badge/性格-开朗-red)
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
