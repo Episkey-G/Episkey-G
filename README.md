@@ -7,7 +7,7 @@
     <img src="https://profile-counter.glitch.me/Episkey-G/count.svg" />
 </div>
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
-Hi Guys, my name is Run Gu(顾润), BackEnd developer.
+Hi Guys, my name is Episkey, BackEnd developer.
 <ul>
     <li>🏫 Study at NUIST (Computer Science and Technology).</li>
     <li>🐈️ Love some cute animal.</li>
